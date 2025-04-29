@@ -1,8 +1,8 @@
-Anime Image Generator - Workflow
-1. Project Overview
+## Anime Image Generator - Workflow
+**1. Project Overview**
 The Anime Image Generator allows users to generate anime-style images based on a text prompt. You can also upload your own image to transform it into an anime-style image resembling Ghibli art style.
 
-2. Tech Stack
+**2. Tech Stack**
 Backend: Django (Python)
 Frontend: HTML, CSS, JavaScript
 API Integration: Hugging Face API for generating anime images
